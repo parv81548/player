@@ -1,0 +1,1897 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:896px;
+  min-width:200px;
+  max-width:413px;
+  margin:auto;
+  background-color:rgba(250, 250, 250, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Header{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:14px;
+  width:386px;
+  min-width:386px;
+  height:23px;
+  margin-top:104px;
+  margin-bottom:769px;
+  min-height:23px;
+  overflow:hidden;
+}
+.Header-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Champions-League{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:34.97409326424871%;
+  width:30.310880829015545%;
+  height:24px;
+  margin-top:1px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:16px;
+  letter-spacing:0.16px;
+  line-height:25px;
+}
+.Champions-League-outer{
+  pointer-events:none;
+  z-index:4;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Group-8{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:14px;
+  width:386px;
+  min-width:386px;
+  height:36px;
+  margin-top:-750px;
+  margin-bottom:714px;
+  min-height:36px;
+}
+.Group-8-outer{
+  pointer-events:none;
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.Group-7{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:272px;
+  width:114px;
+  min-width:114px;
+  height:36px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:36px;
+}
+.Group-7-outer{
+  pointer-events:none;
+  z-index:55;
+  position:relative;
+  display:flex;
+}
+.Group-6{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:10px;
+  width:104px;
+  min-width:104px;
+  height:15px;
+  margin-top:11px;
+  margin-bottom:10px;
+  min-height:15px;
+}
+.Group-6-outer{
+  pointer-events:none;
+  z-index:57;
+  position:relative;
+  display:flex;
+}
+.Group-3{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:0px;
+  width:43px;
+  min-width:43px;
+  height:11px;
+  margin-top:2px;
+  margin-bottom:2px;
+  min-height:11px;
+}
+.Group-3-outer{
+  pointer-events:none;
+  z-index:60;
+  position:relative;
+  display:flex;
+}
+.Icon{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:0px;
+  width:12.54px;
+  min-width:12.54px;
+  height:8.46px;
+  margin-top:2px;
+  margin-bottom:0.539999999999992px;
+  min-height:8.46px;
+  content:url(assets/images/Icon.png);
+}
+.Icon-outer{
+  pointer-events:none;
+  z-index:61;
+  position:relative;
+  display:flex;
+}
+.q2-3K{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-right:0px;
+  width:26px;
+  min-width:26px;
+  height:11px;
+  margin-top:0px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:600;
+  font-size:9px;
+  letter-spacing:0.09px;
+  line-height:10px;
+}
+.q2-3K-outer{
+  pointer-events:none;
+  z-index:62;
+  justify-content:flex-end;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-right:44px;
+  width:6px;
+  min-width:6px;
+  height:6px;
+  margin-top:1px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  pointer-events:none;
+  z-index:59;
+  justify-content:flex-end;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.LIVE{
+  position:relative;
+  z-index:58;
+  pointer-events:none;
+  margin-right:0px;
+  width:50px;
+  min-width:50px;
+  height:15px;
+  margin-top:0px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:700;
+  font-size:11px;
+  letter-spacing:0.165px;
+  line-height:17px;
+}
+.LIVE-outer{
+  pointer-events:none;
+  z-index:58;
+  justify-content:flex-end;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Rectangle-3{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-right:0px;
+  width:114px;
+  min-width:114px;
+  height:36px;
+  margin-top:0px;
+  content:url(assets/images/Rectangle_3.png);
+}
+.Rectangle-3-outer{
+  pointer-events:none;
+  z-index:56;
+  justify-content:flex-end;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Group-5{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  margin-left:0px;
+  width:348px;
+  min-width:348px;
+  height:33px;
+  margin-top:-34px;
+  margin-bottom:1px;
+  min-height:33px;
+}
+.Group-5-outer{
+  pointer-events:none;
+  z-index:52;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  margin-right:0px;
+  width:348px;
+  min-width:348px;
+  height:33px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:33px;
+  background-color:rgba(48, 74, 190, 1);
+  filter:drop-shadow(0px 2px 48px rgba(0, 0, 0, 0.03999999910593033));
+  border-radius:10px;
+}
+.Rectangle-1-outer{
+  pointer-events:none;
+  z-index:53;
+  justify-content:flex-end;
+  position:relative;
+  display:flex;
+}
+.Player-Box-Cricket-L{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-right:155px;
+  width:175px;
+  min-width:175px;
+  margin-top:-24px;
+  margin-bottom:8.419999999999987px;
+  min-height:15.58px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:SF Pro Display;
+  font-weight:400;
+  font-size:13px;
+  letter-spacing:0.13px;
+  line-height:15px;
+}
+.Player-Box-Cricket-L-outer{
+  pointer-events:none;
+  z-index:54;
+  justify-content:flex-end;
+  position:relative;
+  display:flex;
+}
+.Group-4{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:14px;
+  width:386px;
+  min-width:386px;
+  height:118px;
+  margin-top:-687px;
+  margin-bottom:569px;
+  min-height:118px;
+}
+.Group-4-outer{
+  pointer-events:none;
+  z-index:63;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:-6px;
+  width:398px;
+  min-width:398px;
+  height:130px;
+  margin-top:-4px;
+  margin-bottom:-8px;
+  min-height:130px;
+  content:url(assets/images/Rectangle_2.png);
+}
+.Rectangle-2-outer{
+  pointer-events:none;
+  z-index:64;
+  position:relative;
+  display:flex;
+}
+.Match---mumbai-india{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-right:51px;
+  width:321px;
+  min-width:321px;
+  margin-top:-101px;
+  margin-bottom:87px;
+  min-height:14px;
+  text-align:left;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.06px;
+  line-height:14px;
+}
+.Match---mumbai-india-outer{
+  pointer-events:none;
+  z-index:68;
+  justify-content:flex-end;
+  position:relative;
+  display:flex;
+}
+.Match---mumbai-india-1{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:600;
+  font-size:12px;
+  letter-spacing:0.06px;
+  line-height:14px;
+}
+.Match---mumbai-india-2{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.06px;
+  line-height:14px;
+}
+.q101-2{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:12px;
+  width:144px;
+  min-width:144px;
+  margin-top:-76px;
+  margin-bottom:48px;
+  min-height:28px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(21, 48, 165, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:600;
+  font-size:24px;
+  letter-spacing:0.24px;
+  line-height:28px;
+}
+.q101-2-outer{
+  pointer-events:none;
+  z-index:65;
+  position:relative;
+  display:flex;
+}
+.q-6-3-Ov-{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:92px;
+  width:140px;
+  min-width:140px;
+  margin-top:-72px;
+  margin-bottom:52px;
+  min-height:20px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:400;
+  font-size:17px;
+  letter-spacing:0.17px;
+  line-height:20px;
+}
+.q-6-3-Ov--outer{
+  pointer-events:none;
+  z-index:66;
+  position:relative;
+  display:flex;
+}
+.Toss---Credon-Constr{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:12px;
+  width:368px;
+  min-width:368px;
+  margin-top:-34px;
+  margin-bottom:16px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(228, 41, 41, 1);
+  font-style:normal;
+  font-family:Rubik;
+  font-weight:400;
+  font-size:15px;
+  letter-spacing:0.15px;
+  line-height:18px;
+}
+.Toss---Credon-Constr-outer{
+  pointer-events:none;
+  z-index:67;
+  position:relative;
+  display:flex;
+}
+.Section{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:14px;
+  width:386px;
+  min-width:386px;
+  height:350px;
+  margin-top:-552px;
+  margin-bottom:202px;
+  min-height:350px;
+}
+.Section-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Rectangle-4{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:0px;
+  width:386px;
+  min-width:386px;
+  height:350px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:350px;
+  background-color:rgba(255, 255, 255, 1);
+  filter:drop-shadow(0px 2px 48px rgba(0, 0, 0, 0.03999999910593033));
+  border-radius:10px;
+}
+.Rectangle-4-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Text-1{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:25.18px;
+  margin-top:-325px;
+  margin-bottom:299.82px;
+  min-height:25.18px;
+  overflow:hidden;
+}
+.Text-1-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.P-2{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:94.6927374301676%;
+  width:5.307262569832402%;
+  height:21px;
+  margin-top:1.8199999999999932px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.P-2-outer{
+  pointer-events:none;
+  z-index:13;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.L-1{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:79.05027932960894%;
+  width:5.027932960893855%;
+  height:21px;
+  margin-top:-0.18000000000000682px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.L-1-outer{
+  pointer-events:none;
+  z-index:12;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.D-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:63.40782122905028%;
+  width:5.027932960893855%;
+  height:21px;
+  margin-top:-0.18000000000000682px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.D-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.W-1{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:50.279329608938546%;
+  width:2.793296089385475%;
+  height:21px;
+  margin-top:-0.18000000000000682px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.W-1-outer{
+  pointer-events:none;
+  z-index:10;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.P-3{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:37.150837988826815%;
+  width:2.793296089385475%;
+  height:21px;
+  margin-top:-0.18000000000000682px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.P-3-outer{
+  pointer-events:none;
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Team-1{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:0%;
+  width:19.83240223463687%;
+  height:21px;
+  margin-top:1.8199999999999932px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.Team-1-outer{
+  pointer-events:none;
+  z-index:8;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Line-1{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:14px;
+  width:359px;
+  min-width:359px;
+  height:2.26px;
+  margin-top:-288px;
+  margin-bottom:285.74px;
+  min-height:2.26px;
+  content:url(assets/images/Line_1.png);
+}
+.Line-1-outer{
+  pointer-events:none;
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Card-3{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:34px;
+  margin-top:-273px;
+  margin-bottom:239px;
+  min-height:34px;
+  overflow:hidden;
+}
+.Card-3-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.q4-6{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:88.8268156424581%;
+  width:11.1731843575419%;
+  height:18px;
+  margin-top:0px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-6-outer{
+  pointer-events:none;
+  z-index:27;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q1-3{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:80.16759776536313%;
+  width:2.5139664804469275%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q1-3-outer{
+  pointer-events:none;
+  z-index:26;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-6{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:63.96648044692738%;
+  width:3.631284916201117%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-6-outer{
+  pointer-events:none;
+  z-index:25;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-7{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:50%;
+  width:3.631284916201117%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-7-outer{
+  pointer-events:none;
+  z-index:24;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q4-7{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:36.59217877094972%;
+  width:3.35195530726257%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-7-outer{
+  pointer-events:none;
+  z-index:23;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Juventus-3{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:0%;
+  width:25.69832402234637%;
+  height:18px;
+  margin-top:-2px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(21, 48, 165, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.Juventus-3-outer{
+  pointer-events:none;
+  z-index:22;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Card-1{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:34px;
+  margin-top:-227px;
+  margin-bottom:193px;
+  min-height:34px;
+  overflow:hidden;
+}
+.Card-1-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.q4-2{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:88.8268156424581%;
+  width:11.1731843575419%;
+  height:18px;
+  margin-top:0px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-2-outer{
+  pointer-events:none;
+  z-index:41;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q1-1{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:80.16759776536313%;
+  width:2.5139664804469275%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q1-1-outer{
+  pointer-events:none;
+  z-index:40;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-2{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:63.96648044692738%;
+  width:3.631284916201117%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-2-outer{
+  pointer-events:none;
+  z-index:39;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-3{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:50%;
+  width:3.631284916201117%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-3-outer{
+  pointer-events:none;
+  z-index:38;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q4-3{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:36.59217877094972%;
+  width:3.35195530726257%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-3-outer{
+  pointer-events:none;
+  z-index:37;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Juventus-1{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:0%;
+  width:25.977653631284916%;
+  height:18px;
+  margin-top:-2px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(21, 48, 165, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.Juventus-1-outer{
+  pointer-events:none;
+  z-index:36;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Text{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:25.18px;
+  margin-top:-154px;
+  margin-bottom:128.82000000000005px;
+  min-height:25.18px;
+  overflow:hidden;
+}
+.Text-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.P{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:92.45810055865921%;
+  width:7.5418994413407825%;
+  height:21px;
+  margin-top:1.82000000000005px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.P-outer{
+  pointer-events:none;
+  z-index:20;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.L{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:79.60893854748603%;
+  width:4.189944134078212%;
+  height:21px;
+  margin-top:-0.17999999999994998px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.L-outer{
+  pointer-events:none;
+  z-index:19;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.D{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:64.80446927374301%;
+  width:2.793296089385475%;
+  height:21px;
+  margin-top:-0.17999999999994998px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.D-outer{
+  pointer-events:none;
+  z-index:18;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.W{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:49.720670391061454%;
+  width:3.631284916201117%;
+  height:21px;
+  margin-top:-0.17999999999994998px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.W-outer{
+  pointer-events:none;
+  z-index:17;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.P-1{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:36.87150837988827%;
+  width:3.35195530726257%;
+  height:21px;
+  margin-top:-0.17999999999994998px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.P-1-outer{
+  pointer-events:none;
+  z-index:16;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Team{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:0%;
+  width:17.318435754189945%;
+  height:21px;
+  margin-top:1.82000000000005px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(52, 54, 62, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:21px;
+}
+.Team-outer{
+  pointer-events:none;
+  z-index:15;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Line{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:14px;
+  width:359px;
+  min-width:359px;
+  height:2.26px;
+  margin-top:-117px;
+  margin-bottom:114.74000000000001px;
+  min-height:2.26px;
+  content:url(assets/images/Line.png);
+}
+.Line-outer{
+  pointer-events:none;
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.Card-2{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:34px;
+  margin-top:-103px;
+  margin-bottom:69px;
+  min-height:34px;
+  overflow:hidden;
+}
+.Card-2-outer{
+  pointer-events:none;
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.q4-4{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:93.01675977653632%;
+  width:6.983240223463687%;
+  height:18px;
+  margin-top:0px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-4-outer{
+  pointer-events:none;
+  z-index:34;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q1-2{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:80.16759776536313%;
+  width:2.2346368715083798%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q1-2-outer{
+  pointer-events:none;
+  z-index:33;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-4{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:63.40782122905028%;
+  width:4.4692737430167595%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-4-outer{
+  pointer-events:none;
+  z-index:32;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-5{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:50.55865921787709%;
+  width:2.2346368715083798%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-5-outer{
+  pointer-events:none;
+  z-index:31;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q4-5{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:35.47486033519553%;
+  width:5.58659217877095%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-5-outer{
+  pointer-events:none;
+  z-index:30;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Juventus-2{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:0%;
+  width:23.463687150837988%;
+  height:18px;
+  margin-top:-2px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(21, 48, 165, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.Juventus-2-outer{
+  pointer-events:none;
+  z-index:29;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Card{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:14px;
+  width:358px;
+  min-width:358px;
+  height:34px;
+  margin-top:-56px;
+  margin-bottom:22px;
+  min-height:34px;
+  overflow:hidden;
+}
+.Card-outer{
+  pointer-events:none;
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.q4{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:91.06145251396649%;
+  width:8.938547486033519%;
+  height:18px;
+  margin-top:0px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-outer{
+  pointer-events:none;
+  z-index:48;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q1{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:80.16759776536313%;
+  width:2.2346368715083798%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q1-outer{
+  pointer-events:none;
+  z-index:47;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:63.687150837988824%;
+  width:4.189944134078212%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-outer{
+  pointer-events:none;
+  z-index:46;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q2-1{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:50.55865921787709%;
+  width:2.2346368715083798%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q2-1-outer{
+  pointer-events:none;
+  z-index:45;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.q4-1{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:35.47486033519553%;
+  width:5.58659217877095%;
+  height:18px;
+  margin-top:-2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(162, 163, 168, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.q4-1-outer{
+  pointer-events:none;
+  z-index:44;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Juventus{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:0%;
+  width:25.977653631284916%;
+  height:18px;
+  margin-top:-2px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(21, 48, 165, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:600;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.Juventus-outer{
+  pointer-events:none;
+  z-index:43;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Button{
+  position:relative;
+  z-index:69;
+  pointer-events:none;
+  margin-left:14px;
+  width:386px;
+  min-width:386px;
+  height:48px;
+  margin-top:-176px;
+  margin-bottom:128px;
+  min-height:48px;
+  overflow:hidden;
+}
+.Button-outer{
+  pointer-events:none;
+  z-index:69;
+  position:relative;
+  display:flex;
+}
+.Match-Summary{
+  position:relative;
+  z-index:71;
+  pointer-events:none;
+  margin-left:27.979274611398964%;
+  width:44.30051813471503%;
+  height:18px;
+  margin-top:2px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:18px;
+}
+.Match-Summary-outer{
+  pointer-events:none;
+  z-index:71;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.Rectangle{
+  position:relative;
+  z-index:70;
+  pointer-events:none;
+  margin-left:0px;
+  width:386px;
+  height:48px;
+  margin-top:0px;
+  background-color:rgba(48, 74, 190, 1);
+  border-radius:8px;
+}
+.Rectangle-outer{
+  pointer-events:none;
+  z-index:70;
+  justify-content:center;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
